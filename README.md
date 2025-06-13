@@ -19,6 +19,10 @@ Control Node (EC2)
 | |
 |-- Apache Installed --|
 
+yaml
+Copy
+Edit
+
 ---
 
 ## ⚙️ Tools & Technologies Used
@@ -62,8 +66,6 @@ bash
 Copy
 Edit
 ansible-playbook -i inventory apache_install.yaml
-
-
 🖼️ Screenshots
 🔧 Setting Up Inventory File
 
@@ -76,3 +78,14 @@ ansible-playbook -i inventory apache_install.yaml
 ✅ Apache Installed on Workers
 
 🌐 Apache Homepage on Worker Nodes
+
+📣 Conclusion
+This project shows how powerful and simple Ansible can be for automating infrastructure tasks like web server installation across multiple nodes. It's scalable, secure, and ideal for repetitive server setup tasks.
+
+👤 Author
+Aryan Sharma
+🎓 B.Tech CSE (AI & DS) | Poornima University
+📍 Jaipur, India
+🔗 GitHub: @AryanSharma2206
+🔗 LinkedIn: linkedin.com/in/aryan-sharma2206
+
