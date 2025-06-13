@@ -81,11 +81,12 @@ ansible-playbook -i inventory apache_install.yaml
 
 📣 Conclusion
 This project shows how powerful and simple Ansible can be for automating infrastructure tasks like web server installation across multiple nodes. It's scalable, secure, and ideal for repetitive server setup tasks.
+---
 
-👤 Author
-Aryan Sharma
-🎓 B.Tech CSE (AI & DS) | Poornima University
-📍 Jaipur, India
-🔗 GitHub: @AryanSharma2206
-🔗 LinkedIn: linkedin.com/in/aryan-sharma2206
+**Aryan Sharma**  
+B.Tech CSE (AI & DS) | Poornima University  
+GitHub: [@AryanSharma2206](https://github.com/AryanSharma2206)  
+LinkedIn: [linkedin.com/in/aryan-sharma2206](https://www.linkedin.com/in/aryan-sharma-a2a240353/)  
+Location: Jaipur, India
+---
 
